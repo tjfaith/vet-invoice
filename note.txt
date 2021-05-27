@@ -1,0 +1,7 @@
+npm install -g json-server
+
+json-server —watch db.json
+
+Fetch data from db.json using axios and store in your states in store.js.
+
+Populate fetched data into the UI you created.
