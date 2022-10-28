@@ -2,7 +2,7 @@ SECTION 1
 
 https://www.figma.com/file/RC98iJ0ZrPheGrD5dNsOpl/Developer-Interview-Oct.-2022?node-id=0%3A1
 
-Design using Vue 3 and tailwindcss. Make sure to use Vue cli/Vue UI to create your project. It is important you create this project at the time of this interview and not before. 
+Design both the Invoice and Sales List UI using Vue 3 and tailwindcss. Make sure to use Vue cli/Vue UI to create your project. It is important you create this project at the time of this interview and not before. 
 
 Remember you would push to git at the end of your interview and the initial project time would reflect.
 
@@ -14,4 +14,4 @@ json-server —watch db.json
 
 Fetch data from db.json using axios and store in your states in store.js.
 
-Populate fetched data into the UI you created using vuex OR pinia.
+Populate fetched data into the Sales List UI you created using vuex OR pinia.
