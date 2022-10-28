@@ -1,15 +1,15 @@
 {
   farm_sales: [
-    {"total_amount":400000,"balance":400000,"amount_paid":0,"order_id":"l9pqsfuxh3tS","item":"Broiler","created_at":1666795091098},
-    {"total_amount":200000,"balance":100000,"amount_paid":100000,"order_id":"l9pqlfy08zIA","item":"Eggs","created_at":1666794516441},
-    {"total_amount":200000,"balance":0,"amount_paid":200000,"order_id":"l9po0xd6SFzk","item":"Broiler","created_at":1666790473888},
-    {"total_amount":200000,"balance":30000,"amount_paid":170000,"order_id":"l9pnbnsl3P3F","item":"Broiler","created_at":1666789286690},
-    {"total_amount":98520,"balance":98520,"amount_paid":0,"order_id":"l9f1lhvhVMA4","item":"Broiler","created_at":1666148075195},
-    {"total_amount":59500,"balance":5500,"amount_paid":54000,"order_id":"l9ckirexg3W3","item":"Eggs","created_at":1665998516725},
-    {"total_amount":15050,"balance":5050,"amount_paid":10000,"order_id":"l93z45yw63iM","item":"Broiler","created_at":1665478741401},
-    {"total_amount":60000,"balance":60000,"amount_paid":0,"order_id":"l8vq11ybGi6I","item":"Broiler","created_at":1664893437000},
-    {"total_amount":69600,"balance":69600,"amount_paid":0,"order_id":"l8vq0lsmicLz","item":"Eggs","created_at":1664807037000},
-    {"total_amount":75600,"balance":75600,"amount_paid":0,"order_id":"l8vpyid683GS","item":"Broiler","created_at":1664720518000},
-    {"total_amount":77200,"balance":77200,"amount_paid":0,"order_id":"l8vpy5m2IR3z","item":"Eggs","created_at":1664634118000}
+    {"total_amount":400000,"balance":400000,"amount_paid":0,"order_id":"l9pqsfuxh3tS","item":"Broiler","quantity":"20 Kilos","created_at":1666795091098},
+    {"total_amount":200000,"balance":100000,"amount_paid":100000,"order_id":"l9pqlfy08zIA","item":"Eggs","quantity":"55 Crates","created_at":1666794516441},
+    {"total_amount":200000,"balance":0,"amount_paid":200000,"order_id":"l9po0xd6SFzk","item":"Broiler","quantity":"10 Kilos","created_at":1666790473888},
+    {"total_amount":200000,"balance":30000,"amount_paid":170000,"order_id":"l9pnbnsl3P3F","item":"Broiler","quantity":"50 Kilos","created_at":1666789286690},
+    {"total_amount":98520,"balance":98520,"amount_paid":0,"order_id":"l9f1lhvhVMA4","item":"Broiler","quantity":"45 Kilos","created_at":1666148075195},
+    {"total_amount":59500,"balance":5500,"amount_paid":54000,"order_id":"l9ckirexg3W3","item":"Eggs","quantity":"28 Crates","created_at":1665998516725},
+    {"total_amount":15050,"balance":5050,"amount_paid":10000,"order_id":"l93z45yw63iM","item":"Broiler","quantity":"8 Kilos","created_at":1665478741401},
+    {"total_amount":60000,"balance":60000,"amount_paid":0,"order_id":"l8vq11ybGi6I","item":"Broiler","quantity":"35 Kilos","created_at":1664893437000},
+    {"total_amount":69600,"balance":69600,"amount_paid":0,"order_id":"l8vq0lsmicLz","item":"Eggs","quantity":"32 Crates","created_at":1664807037000},
+    {"total_amount":75600,"balance":75600,"amount_paid":0,"order_id":"l8vpyid683GS","item":"Broiler","quantity":"38 Kilos","created_at":1664720518000},
+    {"total_amount":77200,"balance":77200,"amount_paid":0,"order_id":"l8vpy5m2IR3z","item":"Eggs","quantity":"35 Crates","created_at":1664634118000}
   ]
 }
